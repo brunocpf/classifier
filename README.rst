@@ -8,7 +8,7 @@ Para utilizar a ferramenta, execute o script ``gui.py``.
 
 Estes scripts foram desenvolvidos com a ajuda do script de exemplo ``/samples/digits.py`` do OpenCV.
 
-Estes scripts foi desenvolvido com Python 2.7 e OpenCV 3.1.0.
+Estes scripts foram desenvolvidos com Python 2.7 e OpenCV 3.1.0.
 
 Extração de características e treinamento
 ------------------------------------------
